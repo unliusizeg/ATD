@@ -132,7 +132,8 @@ const columns2 = [
    render:() => <>90E</>
   
 },
-  
+   
+
  {
     key: '2',
     title: "Barkodlar",
